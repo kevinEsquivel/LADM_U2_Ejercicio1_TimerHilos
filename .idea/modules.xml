@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LADM_U2_Ejercicio1_TimerHilos.iml" filepath="$PROJECT_DIR$/.idea/modules/LADM_U2_Ejercicio1_TimerHilos.iml" group="LADM_U2_Ejercicio1_TimerHilos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="LADM_U2_Ejercicio1_TimerHilos/app" />
+    </modules>
+  </component>
+</project>
